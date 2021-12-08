@@ -4,6 +4,7 @@ number = random.randint(0,9)
 
 playerName=input("Enter your name:")
 print("Hello",playerName,"Welcome to number guessing game!")
+print("Guess a number between 0 to 9")
 
  # we used random for generating random numbrs 
 while chances < 5:
